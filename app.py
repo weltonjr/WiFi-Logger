@@ -7,10 +7,10 @@ import MySQLdb
 #efetua o scan e recupera os valores
 def scan(): 
     print "scan"
-    #saida = subprocess.Popen(["iwlist", interface, "scan"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-    #saida = saida.stdout.read().decode('utf-8')
-    arq = open('res.txt', 'r')
-    saida = arq.readlines()
+    saida = subprocess.Popen(["iwlist", "{insira a interface aquiu}", "scan"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    saida = saida.stdout.read().decode('utf-8')
+    #arq = open('res.txt', 'r')
+    #saida = arq.readlines()
 
     ssid = re.findall( r'(ESSID:")([A-z0-9\s ]*)' , str(saida) )
     address = re.findall( r'(Address:) ([A-Z0-9 ]+:[A-Z0-9 ]+:[A-Z0-9 ]+:[A-Z0-9 ]+:[A-Z0-9 ]+:[A-Z0-9 ]+)' , str(saida) )
