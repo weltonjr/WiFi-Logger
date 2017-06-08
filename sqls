@@ -1,5 +1,5 @@
 CREATE TABLE `redes`.`wifi` (
-  `idwifi` INT NOT NULL,
+  `idwifi` INT NOT NULL AUTO_INCREMENT,
   `ssid` VARCHAR(45) NULL,
   `mac` VARCHAR(45) NULL,
   `quality` VARCHAR(45) NULL,
@@ -8,3 +8,6 @@ CREATE TABLE `redes`.`wifi` (
   `frequency` VARCHAR(45) NULL,
   `beacon` VARCHAR(45) NULL,
   PRIMARY KEY (`idwifi`));
+
+
+sudo apt-get install python-mysqldb
