@@ -1,0 +1,10 @@
+CREATE TABLE `redes`.`wifi` (
+  `idwifi` INT NOT NULL,
+  `ssid` VARCHAR(45) NULL,
+  `mac` VARCHAR(45) NULL,
+  `quality` VARCHAR(45) NULL,
+  `signal` VARCHAR(45) NULL,
+  `channel` VARCHAR(45) NULL,
+  `frequency` VARCHAR(45) NULL,
+  `beacon` VARCHAR(45) NULL,
+  PRIMARY KEY (`idwifi`));

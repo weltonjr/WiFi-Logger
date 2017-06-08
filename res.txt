@@ -1,0 +1,74 @@
+wlxc83a35c8d61a  Scan completed :
+          Cell 01 - Address: 10:BE:F5:9E:4F:EB
+                    Channel:9
+                    Frequency:2.452 GHz (Channel 9)
+                    Quality=55/70  Signal level=-55 dBm  
+                    Encryption key:on
+                    ESSID:"MICHELLE"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 6 Mb/s
+                              9 Mb/s; 12 Mb/s; 18 Mb/s
+                    Bit Rates:24 Mb/s; 36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=00000010dc2fc17e
+                    Extra: Last beacon: 28964ms ago
+                    IE: Unknown: 00084D494348454C4C45
+                    IE: Unknown: 010882848B960C121824
+                    IE: Unknown: 030109
+                    IE: Unknown: 050400010000
+                    IE: Unknown: 2A0104
+                    IE: Unknown: 32043048606C
+                    IE: Unknown: 2D1A6E181FFFFF000000000000000000000000000000000000000000
+                    IE: Unknown: 3D1609000000000000000000000000000000000000000000
+                    IE: Unknown: 4A0E14000A00B400C800140005001900
+                    IE: Unknown: 7F0101
+                    IE: WPA Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    IE: Unknown: DD180050F2020101000003A4000027A4000042435E0062322F00
+                    IE: Unknown: DD1E00904C336E181FFFFF000000000000000000000000000000000000000000
+                    IE: Unknown: DD1A00904C3409000000000000000000000000000000000000000000
+                    IE: Unknown: DD0600E04C020160
+          Cell 02 - Address: C8:D3:A3:69:64:78
+                    Channel:10
+                    Frequency:2.457 GHz (Channel 10)
+                    Quality=25/70  Signal level=-85 dBm  
+                    Encryption key:on
+                    ESSID:"CASA RON"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 9 Mb/s
+                              18 Mb/s; 36 Mb/s; 54 Mb/s
+                    Bit Rates:6 Mb/s; 12 Mb/s; 24 Mb/s; 48 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000005951023152
+                    Extra: Last beacon: 28852ms ago
+                    IE: Unknown: 00084341534120524F4E
+                    IE: Unknown: 010882848B961224486C
+                    IE: Unknown: 03010A
+                    IE: Unknown: 32040C183060
+                    IE: Unknown: 0706425220010B14
+                    IE: Unknown: 33082001020304050607
+                    IE: Unknown: 33082105060708090A0B
+                    IE: Unknown: 050400010060
+                    IE: Unknown: DD310050F204104A000110104400010210470010BC329E001DD811B28601C8D3A3696478103C0001011049000600372A000120
+                    IE: Unknown: 2A0104
+                    IE: Unknown: 2D1A6E1013FFFF000001000000000000000000000000000000000000
+                    IE: Unknown: 3D160A000700000000000000000000000000000000000000
+                    IE: Unknown: 4A0E14000A002C01C800140005001900
+                    IE: Unknown: 7F0101
+                    IE: WPA Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (2) : TKIP CCMP
+                        Authentication Suites (1) : PSK
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (2) : TKIP CCMP
+                        Authentication Suites (1) : PSK
+                       Preauthentication Supported
+                    IE: Unknown: DD180050F2020101000003A4000027A4000042435E0062322F00
+                    IE: Unknown: 0B0504002F127A
+                    IE: Unknown: DD07000C4303000000
+
