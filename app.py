@@ -22,7 +22,7 @@ def scan():
 
     index = 0
     while(index < len(ssid)):
-        print "."
+        print "." + ssid[index][1]
         f_ssid  = ssid[index][1]
         f_address  = address[index][1]
         f_quality  = quality[index].split('=')[1]
